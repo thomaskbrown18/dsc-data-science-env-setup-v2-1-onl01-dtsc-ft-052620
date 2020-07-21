@@ -7,9 +7,9 @@ In this lesson, you'll continue setting up your professional data science enviro
 
 ## Objectives
 
-You will be able to:
-* Use basic commands to navigate the command line
-* Summarize why virtual environments are used
+You will be able to:  
+* Use basic commands to navigate the command line  
+* Summarize why virtual environments are used  
 * Use a virtual environment
 
 ## Cloning this Repository
